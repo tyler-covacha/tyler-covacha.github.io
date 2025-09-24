@@ -2892,6 +2892,11 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	p {
+		margin-top: 0.3em;
+		margin-bottom: 0.3em;
+	}
+
 /* Split */
 
 	.split {
