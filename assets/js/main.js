@@ -187,7 +187,8 @@
 				<strong>Downloads:</strong> 
 				<a href="links/Lost_Spirit_Mac.zip">Mac</a>
 				<a href="links/Lost_Spirit_Windows.zip">Windows</a><br>
-				<strong>Link:</strong> <a href="https://isvong.itch.io/lost-spirit">Itch.io</a>
+				<strong>Links:</strong> <a href="https://isvong.itch.io/lost-spirit">Itch.io</a>
+				<a href="https://www.youtube.com/watch?v=bbxzO7ohnnM">Trailer</a>
 			`
 		}
 	};
