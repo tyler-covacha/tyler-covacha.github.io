@@ -190,6 +190,20 @@
 				<strong>Links:</strong> <a href="https://isvong.itch.io/lost-spirit">Itch.io</a>
 				<a href="https://www.youtube.com/watch?v=bbxzO7ohnnM">Trailer</a>
 			`
+		},
+		ninetofivedegrees: {
+			title: "9-5 Degrees",
+			image: "images/9to5DegreesCoverIMG.png",
+			description: `
+				9-5 Degrees is a turn based Roguelike RPG where you fight your way up the corporate ladder to seize control of the office thermostat!
+				Battle your coworkers in 1 on 1 duels inspired by the combat of Dokapon Kingdom. Will you be lucky enough to reach the top?
+			`,
+			links: `
+				<strong>Downloads:</strong> 
+				<a href="links/9-5_Degrees_Mac.zip">Mac</a>
+				<a href="links/9-5_Degrees_Windows.zip">Windows</a><br>
+				<strong>Links:</strong> <a href="https://xavier-marshall.itch.io/9-5degrees">Itch.io</a>
+			`
 		}
 	};
 
