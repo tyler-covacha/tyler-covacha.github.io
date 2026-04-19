@@ -204,6 +204,18 @@
 				<a href="links/9-5_Degrees_Windows.zip">Windows</a><br>
 				<strong>Links:</strong> <a href="https://xavier-marshall.itch.io/9-5degrees">Itch.io</a>
 			`
+		},
+		skyease: {
+			title: "SkyEase",
+			image: "images/skyease.png",
+			description: `
+				Ease your nerves and simulate in VR what it's like to fly as a passenger in an airplane.
+				Built using C# in Unity and designed for the Meta Quest Pro.
+			`,
+			links: `
+				<strong>Links:</strong> 
+				<a href="https://flightexposure.weebly.com/" target="_blank">Website</a>
+			`
 		}
 	};
 
