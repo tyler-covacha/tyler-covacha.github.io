@@ -226,8 +226,8 @@
 			`,
 			links: `
 				<strong>Links:</strong> 
-				<a href="https://youtu.be/dQw4w9WgXcQ?si=QflMmhRUakrbTmVE" target="_blank">Milestone 1</a>
-				<a href="https://youtu.be/dQw4w9WgXcQ?si=QflMmhRUakrbTmVE" target="_blank">Final</a>
+				<a href="https://youtu.be/JYgNO0DyXKE" target="_blank">Milestone 1</a>
+				<a href="https://youtu.be/vN9eoin0pU4" target="_blank">Final</a>
 				<a href="https://github.com/tyler-covacha/Marsh-Engine" target="_blank">GitHub</a>
 			`
 		}
