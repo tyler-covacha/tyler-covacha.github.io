@@ -216,6 +216,20 @@
 				<strong>Links:</strong> 
 				<a href="https://flightexposure.weebly.com/" target="_blank">Website</a>
 			`
+		},
+		marsh: {
+			title: "Marsh Game Engine",
+			image: "images/MarshLogo.jpg",
+			description: `
+				Create iOS games on the Marsh Engine! Personal Game Engine made in EECS 404.
+				Technologies Used: C++, Lua, GLM, LuaBridge, SDL, Box2D
+			`,
+			links: `
+				<strong>Links:</strong> 
+				<a href="https://youtu.be/dQw4w9WgXcQ?si=QflMmhRUakrbTmVE" target="_blank">Milestone 1</a>
+				<a href="https://youtu.be/dQw4w9WgXcQ?si=QflMmhRUakrbTmVE" target="_blank">Final</a>
+				<a href="https://github.com/tyler-covacha/Marsh-Engine" target="_blank">GitHub</a>
+			`
 		}
 	};
 

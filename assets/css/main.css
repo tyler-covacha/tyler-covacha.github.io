@@ -216,6 +216,8 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.75em;
+		margin-top: 3rem;
+		margin-bottom: 1rem;
 	}
 
 	h3 {
